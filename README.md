@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Kamalesh!
 
 🎓 **Bachelor Student at Riga Technical University**  
-Currently pursuing a degree in Computer Systems, passionate about crafting digital experiences and building robust solutions.
-
+Bachelor of Information Technology (Computer Systems and Energy)
+Graduate from Riga Technical University (RTU), Latvia.
 ---
 
 ## 🚀 About Me
