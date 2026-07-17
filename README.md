@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Kamalesh!
 
-🎓 **Bachelor Student at Riga Technical University**  
-Bachelor of Information Technology (Computer Systems and Energy)
+🎓 **Bachelor of Information Technology (Computer Systems and Energy)**
 Graduate from Riga Technical University (RTU), Latvia.
 ---
 
